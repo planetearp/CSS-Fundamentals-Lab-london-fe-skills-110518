@@ -9,8 +9,6 @@ header {
 }
 
 figure {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 19%;
+  display: inline;
+  text-align: center;
 }
