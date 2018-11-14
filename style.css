@@ -8,7 +8,8 @@ header {
   text-align: center;
 }
 
-figure {
-  display: inline;
-  text-align: center;
+img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
 }
