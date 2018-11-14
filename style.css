@@ -6,7 +6,6 @@ body {
 
 header {
   text-align: center;
-  font-size: 8px;
 }
 
 img {
@@ -17,6 +16,7 @@ img {
 
 figcaption {
   text-align: center;
+  font-size: 0.75em;
 }
 
 nav a {
