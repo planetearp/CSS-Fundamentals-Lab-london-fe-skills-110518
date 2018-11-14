@@ -32,3 +32,11 @@ nav a {
   margin-left: auto;
   text-align: center;
 }
+
+#details {
+  display: block;
+}
+
+#details div {
+  float: left;
+}
