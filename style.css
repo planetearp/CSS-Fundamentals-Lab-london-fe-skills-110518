@@ -24,3 +24,9 @@ nav a {
   padding-left: 10px;
   padding-right: 10px;
 }
+
+#featured-property {
+  display: block;
+  width: 800px;
+  text-align: center;
+}
